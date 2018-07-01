@@ -1,241 +1,104 @@
+ 
 #EXTM3U
-#EXTINF:0,EXYU | RTL KOCKICA
-http://stb.first-class-portal.com:80/live/test1234/test1234/28041.ts
-#EXTINF:0,EXYU | BABY TV
-http://stb.first-class-portal.com:80/live/test1234/test1234/28048.ts
-#EXTINF:0,EXYU | HAYATOVCI
-http://stb.first-class-portal.com:80/live/test1234/test1234/28047.ts
-#EXTINF:0,EXYU | IDJ KIDS
-http://stb.first-class-portal.com:80/live/test1234/test1234/28046.ts
-#EXTINF:0,EXYU | MASA I MEDO
-http://stb.first-class-portal.com:80/live/test1234/test1234/28045.ts
-#EXTINF:0,EXYU | NICK JR
-http://stb.first-class-portal.com:80/live/test1234/test1234/28042.ts
-#EXTINF:0,EXYU | TOM AND JERRY
-http://stb.first-class-portal.com:80/live/test1234/test1234/28044.ts
-#EXTINF:0,EXYU | NICKELODEON SR
-http://stb.first-class-portal.com:80/live/test1234/test1234/28043.ts
-#EXTINF:0,EXYU | PINK
-http://stb.first-class-portal.com:80/live/test1234/test1234/28077.ts
-#EXTINF:0,EXYU | PINK 2
-http://stb.first-class-portal.com:80/live/test1234/test1234/28076.ts
-#EXTINF:0,EXYU | PINK 3
-http://stb.first-class-portal.com:80/live/test1234/test1234/28075.ts
-#EXTINF:0,EXYU | PINK ACTION
-http://stb.first-class-portal.com:80/live/test1234/test1234/28074.ts
-#EXTINF:0,EXYU | PINK BH
-http://stb.first-class-portal.com:80/live/test1234/test1234/28073.ts
-#EXTINF:0,EXYU | PINK COMEDY
-http://stb.first-class-portal.com:80/live/test1234/test1234/28072.ts
-#EXTINF:0,EXYU | PINK CRIME & MYSTERY
-http://stb.first-class-portal.com:80/live/test1234/test1234/28071.ts
-#EXTINF:0,EXYU | PINK EXTRA
-http://stb.first-class-portal.com:80/live/test1234/test1234/28070.ts
-#EXTINF:0,EXYU | PINK FILM
-http://stb.first-class-portal.com:80/live/test1234/test1234/28069.ts
-#EXTINF:0,EXYU | PINK FOLK
-http://stb.first-class-portal.com:80/live/test1234/test1234/28068.ts
-#EXTINF:0,EXYU | PINK HAHA
-http://stb.first-class-portal.com:80/live/test1234/test1234/28067.ts
-#EXTINF:0,EXYU | PINK HORROR
-http://stb.first-class-portal.com:80/live/test1234/test1234/28066.ts
-#EXTINF:0,EXYU | PINK KIDS
-http://stb.first-class-portal.com:80/live/test1234/test1234/28065.ts
-#EXTINF:0,EXYU | PINK KONCERT
-http://stb.first-class-portal.com:80/live/test1234/test1234/28064.ts
-#EXTINF:0,EXYU | PINK KUVAR
-http://stb.first-class-portal.com:80/live/test1234/test1234/28063.ts
-#EXTINF:0,EXYU | PINK LOL
-http://stb.first-class-portal.com:80/live/test1234/test1234/28062.ts
-#EXTINF:0,EXYU | PINK MUSIC
-http://stb.first-class-portal.com:80/live/test1234/test1234/28061.ts
-#EXTINF:0,EXYU | PINK N ROLL
-http://stb.first-class-portal.com:80/live/test1234/test1234/28060.ts
-#EXTINF:0,EXYU | PINK PEDIA
-http://stb.first-class-portal.com:80/live/test1234/test1234/28059.ts
-#EXTINF:0,EXYU | PINK PLUS
-http://stb.first-class-portal.com:80/live/test1234/test1234/28058.ts
-#EXTINF:0,EXYU | PINK PREMIUM
-http://stb.first-class-portal.com:80/live/test1234/test1234/28057.ts
-#EXTINF:0,EXYU | PINK REALITY
-http://stb.first-class-portal.com:80/live/test1234/test1234/28056.ts
-#EXTINF:0,EXYU | PINK ROMANCE
-http://stb.first-class-portal.com:80/live/test1234/test1234/28055.ts
-#EXTINF:0,EXYU | PINK SCI-FI-FANTASY
-http://stb.first-class-portal.com:80/live/test1234/test1234/28054.ts
-#EXTINF:0,EXYU | PINK SERIJE
-http://stb.first-class-portal.com:80/live/test1234/test1234/28053.ts
-#EXTINF:0,EXYU | PINK SOAP
-http://stb.first-class-portal.com:80/live/test1234/test1234/28052.ts
-#EXTINF:0,EXYU | PINK WESTERN
-http://stb.first-class-portal.com:80/live/test1234/test1234/28051.ts
-#EXTINF:0,EXYU | 24 KITCHEN
-http://stb.first-class-portal.com:80/live/test1234/test1234/28039.ts
-#EXTINF:0,EXYU | ANIMAL PLANET
-http://stb.first-class-portal.com:80/live/test1234/test1234/28038.ts
-#EXTINF:0,EXYU | CRIME INVESTIGATION
-http://stb.first-class-portal.com:80/live/test1234/test1234/28036.ts
-#EXTINF:0,EXYU | ULTRA TV
-http://stb.first-class-portal.com:80/live/test1234/test1234/28050.ts
-#EXTINF:0,EXYU | AXN ADRIA
-http://stb.first-class-portal.com:80/live/test1234/test1234/28015.ts
-#EXTINF:0,EXYU | BALKANIKA TV
-http://stb.first-class-portal.com:80/live/test1234/test1234/28014.ts
-#EXTINF:0,EXYU | BN MUSIC
-http://stb.first-class-portal.com:80/live/test1234/test1234/28013.ts
-#EXTINF:0,EXYU | BUJRUM TV
-http://stb.first-class-portal.com:80/live/test1234/test1234/28012.ts
-#EXTINF:0,EXYU | CINEMAX 1
-http://stb.first-class-portal.com:80/live/test1234/test1234/28092.ts
-#EXTINF:0,EXYU | CINEMAX 2
-http://stb.first-class-portal.com:80/live/test1234/test1234/28091.ts
-#EXTINF:0,EXYU | CINESTAR ACTION TV
-http://stb.first-class-portal.com:80/live/test1234/test1234/28090.ts
-#EXTINF:0,EXYU | CINESTAR FANTASY
-http://stb.first-class-portal.com:80/live/test1234/test1234/28089.ts
-#EXTINF:0,EXYU | CINESTAR PREMIERE 1
-http://stb.first-class-portal.com:80/live/test1234/test1234/28088.ts
-#EXTINF:0,EXYU | CINESTAR PREMIERE 2
-http://stb.first-class-portal.com:80/live/test1234/test1234/28087.ts
-#EXTINF:0,EXYU | CINESTAR TV
-http://stb.first-class-portal.com:80/live/test1234/test1234/28086.ts
-#EXTINF:0,EXYU | CMC MUSIC
-http://stb.first-class-portal.com:80/live/test1234/test1234/28011.ts
-#EXTINF:0,EXYU | DISCOVERY
-http://stb.first-class-portal.com:80/live/test1234/test1234/28035.ts
-#EXTINF:0,EXYU | DISCOVERY ID
-http://stb.first-class-portal.com:80/live/test1234/test1234/28034.ts
-#EXTINF:0,EXYU | DM SAT
-http://stb.first-class-portal.com:80/live/test1234/test1234/28010.ts
-#EXTINF:0,EXYU | DOCUBOX
-http://stb.first-class-portal.com:80/live/test1234/test1234/28032.ts
-#EXTINF:0,EXYU | E!
-http://stb.first-class-portal.com:80/live/test1234/test1234/28031.ts
-#EXTINF:0,EXYU | FOX
-http://stb.first-class-portal.com:80/live/test1234/test1234/28085.ts
-#EXTINF:0,EXYU | FOX CRIME
-http://stb.first-class-portal.com:80/live/test1234/test1234/28084.ts
-#EXTINF:0,EXYU | FOX LIFE
-http://stb.first-class-portal.com:80/live/test1234/test1234/28083.ts
-#EXTINF:0,EXYU | FOX MOVIES
-http://stb.first-class-portal.com:80/live/test1234/test1234/28082.ts
-#EXTINF:0,EXYU | GLAS DRINE
-http://stb.first-class-portal.com:80/live/test1234/test1234/28009.ts
-#EXTINF:0,EXYU | HAYAT  FOLK
-http://stb.first-class-portal.com:80/live/test1234/test1234/28008.ts
-#EXTINF:0,EXYU | HAYAT  MUSIC
-http://stb.first-class-portal.com:80/live/test1234/test1234/28007.ts
-#EXTINF:0,EXYU | HBO 2 HD
-http://stb.first-class-portal.com:80/live/test1234/test1234/28080.ts
-#EXTINF:0,EXYU | HBO 3
-http://stb.first-class-portal.com:80/live/test1234/test1234/28079.ts
-#EXTINF:0,EXYU | HBO HD
-http://stb.first-class-portal.com:80/live/test1234/test1234/28081.ts
-#EXTINF:0,EXYU | HISTORY
-http://stb.first-class-portal.com:80/live/test1234/test1234/28030.ts
-#EXTINF:0,EXYU | HISTORY 2
-http://stb.first-class-portal.com:80/live/test1234/test1234/28029.ts
-#EXTINF:0,EXYU | HISTORY HD
-http://stb.first-class-portal.com:80/live/test1234/test1234/28028.ts
-#EXTINF:0,EXYU | IDJ MUSIC
-http://stb.first-class-portal.com:80/live/test1234/test1234/28006.ts
-#EXTINF:0,EXYU | IDJ TV
-http://stb.first-class-portal.com:80/live/test1234/test1234/28005.ts
-#EXTINF:0,EXYU | IZVORNA TV
-http://stb.first-class-portal.com:80/live/test1234/test1234/28004.ts
-#EXTINF:0,EXYU | JUGOTON
-http://stb.first-class-portal.com:80/live/test1234/test1234/28003.ts
-#EXTINF:0,EXYU | KLASIK TV
-http://stb.first-class-portal.com:80/live/test1234/test1234/28002.ts
-#EXTINF:0,EXYU | LOV I RIBOLOV
-http://stb.first-class-portal.com:80/live/test1234/test1234/28027.ts
-#EXTINF:0,EXYU | LOV I RIBOLOV HD
-http://stb.first-class-portal.com:80/live/test1234/test1234/28026.ts
-#EXTINF:0,EXYU | MTV
-http://stb.first-class-portal.com:80/live/test1234/test1234/28001.ts
-#EXTINF:0,EXYU | NATIONAL GEOGRAPHIC
-http://stb.first-class-portal.com:80/live/test1234/test1234/28025.ts
-#EXTINF:0,EXYU | NATIONAL GEOGRAPHIC HD
-http://stb.first-class-portal.com:80/live/test1234/test1234/28024.ts
-#EXTINF:0,EXYU | NATIONAL GEOGRAPHIC WILD
-http://stb.first-class-portal.com:80/live/test1234/test1234/28023.ts
-#EXTINF:0,EXYU | SEVDAH TV
-http://stb.first-class-portal.com:80/live/test1234/test1234/28000.ts
-#EXTINF:0,EXYU | TRAVEL  CHANNEL
-http://stb.first-class-portal.com:80/live/test1234/test1234/28022.ts
-#EXTINF:0,EXYU | TV 1000
-http://stb.first-class-portal.com:80/live/test1234/test1234/28021.ts
-#EXTINF:0,EXYU | TV SEHARA
-http://stb.first-class-portal.com:80/live/test1234/test1234/28020.ts
-#EXTINF:0,EXYU | VIASAT EXPLORER
-http://stb.first-class-portal.com:80/live/test1234/test1234/28019.ts
-#EXTINF:0,EXYU | VIASAT HISTORY
-http://stb.first-class-portal.com:80/live/test1234/test1234/28018.ts
-#EXTINF:0,EXYU | VIASAT NATURE
-http://stb.first-class-portal.com:80/live/test1234/test1234/28017.ts
-#EXTINF:0,EXYU | YU PLANET
-http://stb.first-class-portal.com:80/live/test1234/test1234/27999.ts
-#EXTINF:0,EX YU: ARENA SPORT 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7339.ts
-#EXTINF:0,EX YU: ARENA SPORT 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7338.ts
-#EXTINF:0,EX YU: Arena Sport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7337.ts
-#EXTINF:0,EX YU: ARENA SPORT 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7335.ts
-#EXTINF:0,EX YU: Arena Sport 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7336.ts
-#EXTINF:0,EX YU: Arena Sport 4 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7334.ts
-#EXTINF:0,EX YU: ARENA Sport 5 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7333.ts
-#EXTINF:0,EX YU: EUROSPORT 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7289.ts
-#EXTINF:0,EX YU: SPORT KLUB 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7329.ts
-#EXTINF:0,EX YU: Sport Klub 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7330.ts
-#EXTINF:0,EX YU: SPORT KLUB 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7328.ts
-#EXTINF:0,EX YU: SPORT KLUB 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7331.ts
-#EXTINF:0,EX YU: SPORT KLUB 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7327.ts
-#EXTINF:0,EX YU: SPORT KLUB 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7332.ts
-#EXTINF:0,### EXYU ###
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/2180.ts
-#EXTINF:0,EXYU:PINK REALITY
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9894.ts
-#EXTINF:0,EXYU:PINK ROMANCE
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9893.ts
-#EXTINF:0,EXYU:PINK SCI-FI & FANTASY
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9892.ts
-#EXTINF:0,EXYU:PINK SOAP
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9891.ts
-#EXTINF:0,EXYU:PINK THRILLER
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9890.ts
-#EXTINF:0,EXYU:PINK WORLD
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9889.ts
-#EXTINF:0,EXYU:PINK ZABAVA
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9888.ts
-#EXTINF:0,EXYU:PINK AND ROLL
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9904.ts
-#EXTINF:0,EXYU:PINK COMEDY
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9903.ts
-#EXTINF:0,EXYU:PINK CRIME & MYSTERY
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9902.ts
-#EXTINF:0,EXYU:PINK FOLK 1
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9901.ts
-#EXTINF:0,EXYU:PINK FOLK 2
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9900.ts
-#EXTINF:0,EXYU:PINK HITS 2
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9899.ts
-#EXTINF:0,EXYU:PINK HORROR
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9898.ts
-#EXTINF:0,EXYU:PINK KONCERT
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9897.ts
-#EXTINF:0,EXYU:PINK PEDI
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9896.ts
-#EXTINF:0,EXYU:PINK PREMIUM
-http://vip.iptv35.com:1958/live/iphd1524/abc7xvy/9895.ts
+#EXTINF:0,BS |  A1 Balkan HD
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15734.ts
+#EXTINF:0,BS |  A1 Islam HD
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15733.ts
+#EXTINF:0,BS |  Al Jazeera Balkans
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15732.ts
+#EXTINF:0,BS |  Alfa TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15731.ts
+#EXTINF:0,BS |  ATV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15730.ts
+#EXTINF:0,BS |  BHT 1
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15729.ts
+#EXTINF:0,BS |  BHT 1 HD
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15728.ts
+#EXTINF:0,BS |  Bosna i Hercegovina
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15727.ts
+#EXTINF:0,BS |  Bosna TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15726.ts
+#EXTINF:0,BS |  City TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15725.ts
+#EXTINF:0,BS |  Elta TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15724.ts
+#EXTINF:0,BS |  Face TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15723.ts
+#EXTINF:0,BS |  Federalna TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15722.ts
+#EXTINF:0,BS |  Glas Drine
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15721.ts
+#EXTINF:0,BS |  Hayat Plus
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15720.ts
+#EXTINF:0,BS |  Hayat TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15719.ts
+#EXTINF:0,BS |  Hema
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15718.ts
+#EXTINF:0,BS |  Izvorna TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15717.ts
+#EXTINF:0,BS |  Jata TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15716.ts
+#EXTINF:0,BS |  Jedinstvo TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15715.ts
+#EXTINF:0,BS |  K3 test
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15714.ts
+#EXTINF:0,BS |  Kakanj
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15713.ts
+#EXTINF:0,BS |  Meka TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15712.ts
+#EXTINF:0,BS |  Moj Kanal HD
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15711.ts
+#EXTINF:0,BS |  Moje Bugojno
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15710.ts
+#EXTINF:0,BS |  MTV Igman
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15709.ts
+#EXTINF:0,BS |  N1 HD
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15708.ts
+#EXTINF:0,BS |  NTV 101
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15707.ts
+#EXTINF:0,BS |  NTV Amna test
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15706.ts
+#EXTINF:0,BS |  OBN
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15705.ts
+#EXTINF:0,BS |  OSM TV test
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15704.ts
+#EXTINF:0,BS |  Pink BH
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15703.ts
+#EXTINF:0,BS |  Posavina TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15702.ts
+#EXTINF:0,BS |  Primera HD
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15701.ts
+#EXTINF:0,BS |  RTRS
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15700.ts
+#EXTINF:0,BS |  RTRS Plus
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15699.ts
+#EXTINF:0,BS |  RTV Sana
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15698.ts
+#EXTINF:0,BS |  RTV USK
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15697.ts
+#EXTINF:0,BS |  RTV Visoko
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15696.ts
+#EXTINF:0,BS |  Sahar TV test
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15695.ts
+#EXTINF:0,BS |  Sandzak TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15694.ts
+#EXTINF:0,BS |  TK Tuzla
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15693.ts
+#EXTINF:0,BS |  TV 1
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15692.ts
+#EXTINF:0,BS |  TV 5 Islam
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15691.ts
+#EXTINF:0,BS |  TV 6
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15690.ts
+#EXTINF:0,BS |  TV Sarajevo
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15689.ts
+#EXTINF:0,BS |  TV Sehara
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15688.ts
+#EXTINF:0,BS |  TV Slon
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15687.ts
+#EXTINF:0,BS |  TV Smart Tesanj test
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15686.ts
+#EXTINF:0,BS |  TV Vogosca
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15685.ts
+#EXTINF:0,BS |  Zenica TV
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/15684.ts
