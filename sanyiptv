@@ -1,10 +1,1 @@
-#EXTM3U
-#EXTINF:0,HBO
-http://142.44.139.236:25461/live/mauricio/mauricio/4366.ts
-#EXTINF:0,HBO HD
-http://142.44.139.236:25461/live/mauricio/mauricio/6108.ts
-#EXTINF:0,HBO 2
-http://142.44.139.236:25461/live/mauricio/mauricio/4365.ts
-#EXTINF:0,HBO 2 HD
-http://142.44.139.236:25461/live/mauricio/mauricio/6110.ts
-#EXTINF:0,HBO Family
+ http://185.231.160.52/783/4/index.m3u8v
